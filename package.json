@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ringcentral/sdk": "^4.7.4",
+    "dotenv": "^16.1.0",
+    "ringcentral-web-phone": "^1.0.0-beta3"
+  }
+}
